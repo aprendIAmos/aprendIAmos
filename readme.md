@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Programador+de+Python+..&hearts;++;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;El+procesamiento+de+lenguaje+natual;Y+crear+proyectos+open+source."></a>
 </p>
 
-<img width="1920" height="700" src="assets/banner_con_logo_yt.png" />
+<img width="1920" height="700" src="assets/banner_yt_corto.png" />
 
 ## **Sobre mi**
 
@@ -38,7 +38,7 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Procesamiento de Len
 <br>
 <p>
 <a href="https://github.com/aprendIAmos/clasificador" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-FF0000?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <!-- <a href="https://youtu.be/S" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF0000">
@@ -58,7 +58,7 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Procesamiento de Len
 <a href="https://github.com/aprendIAmos/detector_reciclables_organicos" target="_blank"><img src="assets/imagen_detector.png"></a>
 <p>
 <a href="https://github.com/aprendIAmos/detector_reciclables_organicos" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-800080?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <!-- <a href="https://youtu.be/" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-purple?style=for-the-badge&color=800080">
@@ -95,10 +95,10 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Procesamiento de Len
 [![My Skills](https://skillicons.dev/icons?i=py,r,js,php&perline=4)](https://skillicons.dev)
 
 ### Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=git,github,anaconda,mongodb,mysql,firebase,postgres,sqlite,postman&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,anaconda,mongodb,mysql,vsc,postman&perline=9)](https://skillicons.dev)
 
 ### Frameworks & Librerías:
-[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,flask,vscode,nodejs&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,flask,nodejs&perline=9)](https://skillicons.dev)
 
 ## Contacto:
 <a href="mailto:h.pena@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aprende.ingenia@gmail.com-blue?style=flat-square&logo=gmail"></a>
