@@ -92,13 +92,13 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Procesamiento de Len
 ## Habilidades y lenguajes:
 
 ### Lenguajes:
-[![My Skills](https://skillicons.dev/icons?i=py,r,js,php,solidity&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,js,php,solidity&perline=5)](https://skillicons.dev)
 
 ### Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=git,github,anaconda,mongodb,mysql,vscode,postman&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,anaconda,mongodb,mysql,vscode,postman&perline=7)](https://skillicons.dev)
 
 ### Frameworks & Librerías:
-[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,flask,nodejs&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,flask,nodejs&perline=6)](https://skillicons.dev)
 
 ## Contacto:
 <a href="mailto:h.pena@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aprende.ingenia@gmail.com-blue?style=flat-square&logo=gmail"></a>
