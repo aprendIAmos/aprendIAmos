@@ -92,10 +92,10 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Procesamiento de Len
 ## Habilidades y lenguajes:
 
 ### Lenguajes:
-[![My Skills](https://skillicons.dev/icons?i=py,r,js,php&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,js,php,solidity&perline=4)](https://skillicons.dev)
 
 ### Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=git,github,anaconda,mongodb,mysql,vsc,postman&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,anaconda,mongodb,mysql,vscode,postman&perline=9)](https://skillicons.dev)
 
 ### Frameworks & Librerías:
 [![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,flask,nodejs&perline=9)](https://skillicons.dev)
